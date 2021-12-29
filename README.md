@@ -6,4 +6,4 @@ Simple game based of on a popular Netfilx seires called "Squid Game".
 ## [Play Game Here](https://0shuvo0.github.io/squidgame/)
 
 
-(img/preview.png)]
+[![Youtube Tutorial](img/preview.png)]
